@@ -10,6 +10,6 @@ II. Resumen de Carta de inicio de proyecto (Project Charter)
                  Equipo de desarrollo (Programadora), 
                  Patrocinadores (Director general del proyecto).
    
-1.4 Objetivo general del proyecto. Desarrollar una aplicación web de gestion de talento que conecte a solicitantes con empleadores para agilizar y dar seguimiento al proceso de reclutamiento y eliminar los procesos tediosos para empleadores y solicitantes, en un plazo de dos meses. El proyecto se basa en estandares de  PMI-PMBok, cuenta con un presuúesto aproximado de $40000.
+1.4 Objetivo general del proyecto. Desarrollar una aplicación web de gestion de talento que conecte a solicitantes con empleadores para agilizar y dar seguimiento al proceso de reclutamiento y eliminar los procesos tediosos para empleadores y solicitantes, en un plazo de dos meses. El proyecto se basa en estandares de  PMI-PMBok, cuenta con un presupuesto aproximado de $40000.
 
 
